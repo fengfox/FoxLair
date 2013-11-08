@@ -18,11 +18,11 @@
       	<h2><a href="#"><small>Company Slogan Goes Here</small></a></h2>
     </div>
    <div id="buttons">
-      <a href="index.html" class="but_home"  title=""></a><div class="but_razd"></div>
-      <a href="blog.html" class="but" title="">Blog</a><div class="but_razd"></div>
-      <a href="gallery.html"  class="but" title="">Gallery</a><div class="but_razd"></div>
-      <a href="about_us.html"  class="but" title="">About us</a><div class="but_razd"></div>
-      <a href="contact_us.html" class="but" title="">Contact us</a>
+      <a href="__ROOT__/index.php/Index/index.html" class="but_home"  title=""></a><div class="but_razd"></div>
+      <a href="__ROOT__/index.php/Index/blog.html" class="but" title="">博客</a><div class="but_razd"></div>
+      <a href="__ROOT__/index.php/Index/gallery.html"  class="but" title="">图库</a><div class="but_razd"></div>
+      <a href="__ROOT__/index.php/Index/about_us.html"  class="but" title="">下载</a><div class="but_razd"></div>
+      <a href="__ROOT__/index.php/Index/contact_us.html" class="but" title="">联系我</a>
     </div>
 </div>
 <!-- header ends -->

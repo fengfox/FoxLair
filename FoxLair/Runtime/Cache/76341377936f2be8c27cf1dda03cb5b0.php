@@ -1,4 +1,4 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<?php if (!defined('THINK_PATH')) exit();?><!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
 <head>
 <meta http-equiv="content-type" content="text/html; charset=utf-8" />
@@ -19,10 +19,10 @@
     </div>
    <div id="buttons">
       <a href="__ROOT__/index.php/Index/index.html" class="but_home"  title=""></a><div class="but_razd"></div>
-      <a href="__ROOT__/index.php/Index/blog.html" class="but" title="">博客</a><div class="but_razd"></div>
-      <a href="__ROOT__/index.php/Index/gallery.html"  class="but" title="">图库</a><div class="but_razd"></div>
-      <a href="__ROOT__/index.php/Index/about_us.html"  class="but" title="">下载</a><div class="but_razd"></div>
-      <a href="__ROOT__/index.php/Index/contact_us.html" class="but" title="">联系我</a>
+      <a href="blog.html" class="but" title="">博客</a><div class="but_razd"></div>
+      <a href="gallery.html"  class="but" title="">图库</a><div class="but_razd"></div>
+      <a href="about_us.html"  class="but" title="">下载</a><div class="but_razd"></div>
+      <a href="contact_us.html" class="but" title="">联系我</a>
     </div>
 </div>
 <!-- header ends -->
